@@ -1,8 +1,8 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+<img height="550" src="https://camo.githubusercontent.com/adc370d5e2f03791f46c034206c0932baac93320fb80e3c1cb90ccd81fd026b7/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f4334453132415145724a7359617944757456672f61727469636c652d636f7665725f696d6167652d736872696e6b5f3630305f323030302f302f313635313833353036343236303f653d3231343734383336343726763d6265746126743d5044374e47776b32566833784f4139677866387555734c7341742d4276616b31486d3372756f4753787559">
 
 <h1 align="center">Hi 👋, I'm Biswajit Sahoo</h1>
 <h3 align="center">A passionate frontend developer from Bangalore,India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frghdrizzle%2Frghdrizzle&psig=AOvVaw1HFMvj2yjc2H133AZE892Y&ust=1709666851158000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIjGv_-p24QDFQAAAAAdAAAAABAG">
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biswajit-sahoo2&label=Profile%20views&color=0e75b6&style=flat" alt="biswajit-sahoo2" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@biswa223" target="blank"><img src="https://img.shields.io/twitter/follow/@biswa223?logo=twitter&style=for-the-badge" alt="@biswa223" /></a> </p>
