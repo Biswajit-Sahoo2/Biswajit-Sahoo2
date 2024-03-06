@@ -1,4 +1,4 @@
-<img height="340" width="980" src="https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif">
+<img height="100%" width="100%" src="https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif">
 
 <h1 align="center">Hi 👋, I'm Biswajit Sahoo</h1>
 <h3 align="center">A passionate frontend developer from Bangalore,India</h3>
