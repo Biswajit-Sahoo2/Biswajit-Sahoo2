@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biswajit-sahoo2&label=Profile%20views&color=0e75b6&style=flat" alt="biswajit-sahoo2" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@biswa223" target="blank"><img src="https://img.shields.io/twitter/follow/@biswa223?logo=twitter&style=for-the-badge" alt="@biswa223" /></a> </p>
+<p align="left"> <a href="https://twitter.com/biswa223" target="blank"><img src="https://img.shields.io/twitter/follow/@biswa223?logo=twitter&style=for-the-badge" alt="@biswa223" /></a> </p>
 
 - 🔭 I’m currently working on **MERN Stack**
 
